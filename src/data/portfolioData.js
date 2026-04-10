@@ -1,8 +1,8 @@
 export const profile = {
   fullName: "Aubin Aron",
   role: "Backend Developer",
-  location: "France",
-  phone: "+33 6 12 34 56 78",
+  location: "Cameroun",
+  phone: "+237 674668474",
   email: "aubin@example.com",
   photo: "/profile.jpg",
   cvUrl: "#",
@@ -30,7 +30,7 @@ export const quickLinks = [
   },
   {
     name: "Telephone",
-    href: "tel:+33612345678",
+    href: "tel:+237674668474",
     icon: "https://img.icons8.com/fluency/48/phone.png"
   }
 ];
