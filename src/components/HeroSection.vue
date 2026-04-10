@@ -82,7 +82,7 @@ onUnmounted(() => {
             HELLO THERE
           </p>
           <h1 class="text-5xl leading-[0.95] font-black md:mt-1 md:text-7xl">
-            I'm {{ animatedName }}<span class="opacity-80">|</span>
+           AUBIN TENE
           </h1>
           <p class="mt-4 max-w-2xl text-lg text-[#c0cada]">
             Je concois des experiences web modernes avec une forte orientation performance, accessibilite et impact business.
